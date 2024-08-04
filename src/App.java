@@ -108,7 +108,6 @@ public class App {
                     break;
             }
         }
-        return;
     }
     private static void menuTelefone(Scanner scan, Iphone iphone){
         String escolha = "";
